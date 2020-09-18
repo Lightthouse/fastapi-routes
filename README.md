@@ -1,2 +1,3 @@
 # fastapi-routes
-list of most common routes
+
+Тестовые роуты для знакомства с работой fastapi
